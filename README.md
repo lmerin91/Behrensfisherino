@@ -1,3 +1,3 @@
 # Hello-World
 My first repository
-Her de snerp dette er en endring
+er de snerp dette er en endring
