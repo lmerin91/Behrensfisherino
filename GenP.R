@@ -1,9 +1,4 @@
 GenP <- function(my, sig, n, Alph, m){
-  my=3
-  sig=2
-  n=10
-  Alph=0.95
-  m=100
   
   teller=0
   mu=rep(0,m)
@@ -15,7 +10,5 @@ GenP <- function(my, sig, n, Alph, m){
     }
   }
   p=teller/m
-  p
-  mu
   return(p)
 }
